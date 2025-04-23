@@ -5,7 +5,7 @@ This is a simple yet powerful web application built with Django. It features sec
 ## 👩‍💻 Developed by
 
 **Rizwana Nesrin**  
-GitHub: [@Rizwanz](https://github.com/Rizwanz)
+GitHub: [@Riznxz](https://github.com/Rizwanz)
 
 ## 🚀 Features
 
